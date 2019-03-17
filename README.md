@@ -3,5 +3,8 @@
 
 
 ## Используемые библиотеки
-https://github.com/adafruit/Adafruit_NeoPixel
-https://github.com/guillaume-rico/SharpIR
+
+- ЛЕД-лента [Adafruit_NeoPixe](https://github.com/adafruit/Adafruit_NeoPixel);
+- ИК-датчик [SharpIR](https://github.com/guillaume-rico/SharpIR);
+- шина [SPI](https://github.com/PaulStoffregen/SPI);
+- радиопередатчик и приемник [RF24](https://github.com/maniacbug/RF24).
