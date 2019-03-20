@@ -4,7 +4,7 @@
 
 ## Используемые библиотеки
 
-- ЛЕД-лента [Adafruit_NeoPixe](https://github.com/adafruit/Adafruit_NeoPixel) и [FastLED](https://github.com/FastLED/FastLED) и 
+- ЛЕД-лента [Adafruit_NeoPixe](https://github.com/adafruit/Adafruit_NeoPixel) и [FastLED](https://github.com/FastLED/FastLED);
 - ИК-датчик [SharpIR](https://github.com/guillaume-rico/SharpIR);
 - шина [SPI](https://github.com/PaulStoffregen/SPI);
 - радиопередатчик и приемник [RF24](https://github.com/maniacbug/RF24).
