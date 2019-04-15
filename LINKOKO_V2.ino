@@ -65,6 +65,7 @@ if (data[0] == 1) {
 }
 if (data[0] == 0) { //если нет данных, то прекращаем плжачу 5в на ресет, таким образом перезагружаем плату
   Serial.println("RESET...");
+  delay(100);
   digitalWrite (7,LOW);
   //resetFunc();
 }
